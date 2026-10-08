@@ -1,1 +1,3 @@
  Arquivo criado na branch atividade-recuperacao. 
+
+Esta alteração foi realizada durante a atividade prática. 
